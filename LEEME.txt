@@ -1,0 +1,61 @@
+CONDUCTORES ACTIVOS — SITIO WEB
+================================
+
+Archivos:
+- index.html: estructura y contenido.
+- styles.css: diseño adaptable y animaciones hover.
+- script.js: menú móvil, acordeón de preguntas y año automático.
+
+Vista previa local:
+1. Descomprime el ZIP.
+2. Abre index.html en un navegador.
+
+Publicación en GitHub Pages:
+1. Crea un repositorio público.
+2. Sube index.html, styles.css y script.js a la raíz.
+3. En Settings > Pages, selecciona Deploy from a branch y la rama main / root.
+
+IMPORTANTE:
+- La web presenta servicios de asistencia técnica y orientación por canales oficiales.
+- No ofrece alquiler/venta de cuentas, evasión de bloqueos ni desbloqueos garantizados.
+- BOT ULTRA se presenta como herramienta de análisis y comparación; no acepta órdenes automáticamente.
+- Los importes y ejemplos ilustrativos deben revisarse antes de publicar.
+- El sitio es independiente y no está afiliado a las plataformas mencionadas.
+- El contacto de WhatsApp configurado es 3237680838.
+
+
+MEJORAS DE EXPERIENCIA — VERSIÓN PREMIUM v4
+- Navegación que resalta la sección activa.
+- Demo BOT ULTRA con selección de oportunidades ilustrativas por toque, clic o teclado.
+- Microinteracciones de tarjetas en escritorio, respetando dispositivos táctiles.
+- Animaciones de entrada y barra de progreso con soporte para movimiento reducido.
+- Se conserva el WhatsApp 3237680838 y el contenido comercial existente.
+
+
+MEJORAS VISUALES — VERSIÓN PREMIUM v5
+- Se renovó la sección de plataformas con seis tarjetas visuales: Uber, inDrive, DiDi, Yango, Picap y Rappi.
+- Colores de acento inspirados en la identidad visual de cada marca, con contraste sobre el fondo oscuro.
+- Diseño adaptable: seis columnas en escritorio, tres en tablet y dos en móviles pequeños.
+- Se incluye una nota de independencia y titularidad de marcas. Los logotipos tipográficos son representaciones visuales, no archivos oficiales proporcionados por las plataformas.
+- Se conserva el nombre Conductores Activos y el WhatsApp 3237680838.
+
+
+LOGOTIPOS DE PLATAFORMAS
+La franja de aplicaciones utiliza archivos gráficos enlazados desde Wikimedia Commons mediante Special:FilePath. Las páginas de origen y atribución consultadas son:
+- Uber: https://commons.wikimedia.org/wiki/File:Uber_logo.svg
+- inDrive: https://commons.wikimedia.org/wiki/File:InDrive_Logo.svg
+- DiDi: https://commons.wikimedia.org/wiki/File:DiDi_Logo.svg
+- Yango: https://commons.wikimedia.org/wiki/File:Yango_(entreprise).png
+- Picap: https://commons.wikimedia.org/wiki/File:Picap.png
+- Rappi: https://commons.wikimedia.org/wiki/File:Rappi_logo.svg
+Nota: los logotipos son marcas de sus respectivos titulares. La presencia de estas marcas no implica afiliación ni respaldo. El logo de Picap localizado en Commons puede no corresponder a la versión vigente; sustituirlo por el archivo oficial más reciente si el titular lo facilita. Para que se vean, el sitio publicado necesita conexión a Internet.
+
+LOGOTIPO DE CONDUCTORES ACTIVOS
+Se incorporó un logotipo vectorial propio en assets/logo-conductores-activos.svg. Aparece en el encabezado y en el pie de página. Al ser SVG local, no requiere conexión a internet.
+
+
+CORRECCIÓN DE LOGOTIPO — VERSIÓN v8
+- El logo principal ahora está incrustado directamente en el HTML como SVG codificado.
+- Ya no depende de la ruta assets/logo-conductores-activos.svg para mostrarse en el encabezado y pie de página.
+- Esto evita el icono de imagen rota por rutas relativas incorrectas en GitHub Pages y funciona sin conexión.
+- Para publicar: reemplaza el index.html anterior por este y conserva los demás archivos y carpetas.
